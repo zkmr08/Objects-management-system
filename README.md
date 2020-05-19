@@ -31,11 +31,16 @@ The swipeable UItable view support for
 **Realm** which is an open source object database management system, initially for mobile, also available for platforms such as Xamarin or React Native, and others, including desktop applications, and is licensed under the Apache License.
 
 ## Features
-Include all the features of the app
-Button checkboxes
-Realm
-SwipeCellKit
-IQKeyboardManager
+
+**SearchBar** used to search Items by their names
+
+**Button checkboxes** to add/remove relations between Items
+
+**Realm** for storing data locally
+
+**SwipeCellKit** for swiping left to delete Item
+
+**IQKeyboardManager** to avoid issues when the keyboard shows up
 
 
 ## Architecture
