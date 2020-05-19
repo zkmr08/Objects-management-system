@@ -1,6 +1,3 @@
-# saal
-An Objects management system iOS app written in Swift using Realm
-
 # Object Management
 
 The goal is to create a system for managing objects. For example, an object can be a desk, computer, keyboard, server or human being.
@@ -16,7 +13,9 @@ The following functions are available:
 
 The GUI has been implemented based on  Apple Human Interface Guidelines.
 
-Further informations:
+## Further informations:
+
+An Objects management system iOS app written in Swift using Realm
 
 The implementation done in **Swift - iOS13**
 
